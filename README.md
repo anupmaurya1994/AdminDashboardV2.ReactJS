@@ -11,7 +11,7 @@ To use this template, you will need to have Node.js and npm (Node Package Manage
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/AdminDashboardV2.ReactJS.git
+   git clone https://github.com/anupmaurya1994/AdminDashboardV2.ReactJS.git
    cd AdminDashboardV2.ReactJS
    ```
 
