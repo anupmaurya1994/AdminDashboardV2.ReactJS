@@ -29,30 +29,55 @@ Start the server:
 
 ## AdminDashboardV2.ReactJS/
 ├── public/
+
 │   ├── favicon.ico
+
 │   ├── index.html
+
 │   ├── manifest.json
+
 │   └── robots.txt
+
 ├── src/
+
 │   ├── assets/
+
 │   ├── common/
+
 │   ├── components/
+
 │   ├── constants/
+
 │   ├── helpers/
+
 │   ├── locales/
+
 │   ├── pages/
+
 │   ├── routes/
+
 │   ├── store/
+
 │   ├── App.js
+
 │   ├── App.test.js
+
 │   ├── config.js
+
 │   ├── i18n.js
+
 │   ├── index.js
+
 │   ├── serviceWorker.js
+
 │   └── setupTests.js
+
 ├── .gitignore
+
 ├── package.json
+
 ├── README.md
+
 └── yarn.lock
 
 ## Tech Stack
@@ -70,10 +95,10 @@ Start the server:
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV2.ReactJS/blob/main/src/assets/demo/dashboard.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV2.ReactJS/blob/main/src/assets/demo/sign.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV2.ReactJS/blob/main/src/assets/demo/language.png)
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/anupmaurya1994/AdminDashboardV2.ReactJS/blob/main/src/assets/demo/landingpage.png)
